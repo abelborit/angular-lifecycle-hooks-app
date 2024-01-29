@@ -1,3 +1,35 @@
+# Angular TypeScript - Angular Lifecycle Hooks App
+
+---
+
+# Temas puntuales de la sección
+
+### ¿Qué veremos en esta sección?
+
+Esta sección está enfocada en explicar todos los pasos del ciclo de vida de un componente de Angular.
+
+También estos pasos, son conocidos como Hooks, que posiblemente se ha escuchado en React, pero funcionan diferente, pero comparten la similitud de que son Métodos o funciones que se ejecutan de manera automática cuando algo sucede en un componente.
+
+### \* PASOS A REALIZAR:
+
+1. ejemplo
+2. ejemplo
+3. ejemplo
+
+### \* RECURSOS A USAR:
+
+- Documentación oficial: https://angular.io/guide/lifecycle-hooks
+- ejemplo
+- ejemplo
+
+### \* NOTAS:
+
+- ejemplo
+- ejemplo
+- ejemplo
+
+---
+
 # AngularLifecycleHooksApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
